@@ -11,7 +11,7 @@
 - **Frontend**: React, Tailwind CSS, HTML, CSS, JavaScript  
 - **Backend**: Node.js, Express.js, MongoDB  
 - **Languages**: C, C++, Java, Python, JavaScript  
-- **Tools**: Git, GitHub, Firebase, Netlify, Vercel  
+- **Tools**: Git, GitHub, Firebase, Netlify
 
 ---
 
